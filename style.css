@@ -1,0 +1,26 @@
+body{
+    align-items: center;
+    justify-content: center;
+    font-family: Montserrat;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 90vh;
+    background-color: lightblue;
+}
+
+img{
+    width: 400px;
+    border-radius: 30px;
+    background-color: transparent;
+    top: -100px;
+}
+
+h3{
+   font-size: 15px; 
+   font-weight: 400, 700;
+}
